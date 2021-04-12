@@ -1,0 +1,10 @@
+$color1:#28a745;
+$color2:#1e692f;
+#header {
+    box-shadow: 0 .5rem .5rem rgba(0, 0, 0, 0.452);
+    background-color: $color1;
+    #logo {
+        height: 40px;
+        width: 40px;
+    }
+}
